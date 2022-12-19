@@ -67,7 +67,7 @@ if __name__ == '__main__':
             # start BFS traversal from vertex i
             BFS(graph, i, discovered)
  
-_______________________________________Recursive BFS ___  Recursive Implementation of BFS _________________________________________________
+# _______________________________________Recursive BFS ___  Recursive Implementation of BFS _________________________________________________
 
 
 from collections import deque
